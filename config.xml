@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.voltbuilder.sample" xmlns="http://www.w3.org/ns/widgets" version="1.0.0">
+  <name>Pro chat</name>
+  <description>App created by Md Jaabir</description>
+  <preference name="SplashScreenDelay" value="2000" />
+<preference name="AutoHideSplashScreen" value="true" />
+<plugin name="cordova-plugin-splashscreen" />
+  <plugin name="cordova-plugin-whitelist" />
+  <access origin="*" />
+</widget>
